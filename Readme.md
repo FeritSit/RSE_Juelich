@@ -1,8 +1,10 @@
 # Research Software Engineering for PhD Students
 
-This is the training respository for the JuDocs course for Research Software Engineering (May 6-9, 2025), online & at the Forschungszentrum Juelich, provided by the Digiatl Research Academy, developed and taught by Johanna Bayer.
+This is the training respository for the JuDocs course for Research Software Engineering (November 10-11, 2025), at the Forschungszentrum Juelich, provided by the Digital Research Academy. The material is developed Johanna Bayer. This edition of the course is given by Fritjof Lammers
 
-This repository is versioned: [![DOI](https://zenodo.org/badge/957504815.svg)](https://doi.org/10.5281/zenodo.15370014)
+
+
+This repository is versioned: [![DOI])])
 
 ## Outline (approximate)
 
@@ -13,13 +15,18 @@ This repository is versioned: [![DOI](https://zenodo.org/badge/957504815.svg)](h
 
 | **Topic** | **Time** | **Duration** |
 |-----------|----------|--------------|
-| Welcome + Introduction: Why are we here? | 09:00 – 09:15 | 0:15 |
-| What is a research software engineer? <br> Setting up a research code project: repository structure, naming, README <br> **Activity 1 (20 min)** | 09:15 – 10:05 | 0:50 |
-| **Break** | 10:05 – 10:20 | 0:15 |
-| Activities with Git: Theoretical background (30 min) <br> **Activity 2 (15 min)** | 10:20 – 10:55 | 0:35 |
-| **Break** | 10:55 – 11:10 | 0:15 |
-| Activity 3 (15 min) <br> Theory and activities: collaborating effectively using issues, branches, forks, pull requests, merges and code reviews | 11:10 – 11:45 | 0:35 |
-| **Wrap-up** | 11:45 – 12:00 | 0:15 |
+| Welcome + Introduction | 09:30 – 09:45 | 0:15 |
+| What is a research software engineer? <br> Setting up a research code project: repository structure, naming, README <br> **Activity 1 (20 min)** | 09:45 – 10:35 | 0:50 |
+| **Break** | 10:35 – 10:50 | 0:15 |
+| Activities with Git: Theoretical background + **Activity 2** | 10:50 – 11:35 | 0:45 |
+| **Break** | 11:35 – 11:50 | 0:15 |
+| Collaborating effectively: issues, branches, forks, pull requests, merges and code reviews + **Activity 3** | 11:50 – 12:30 | 0:40 |
+| **Lunch** | 12:30 – 13:30 | 1:00 |
+| Git continued: cloning repositories, command line git + **Activity 4** | 13:30 – 14:10 | 0:40 |
+| **Break** | 14:10 – 14:25 | 0:15 |
+| Introduction to reproducible code, good coding practices and stabilizing your computing environment | 14:25 – 15:25 | 1:00 |
+| **Break** | 15:25 – 15:40 | 0:15 |
+| Stabilizing your computing environment, packaging and documentation (practical tips) | 15:40 – 16:30 | 0:50 |
 
 </details>
 
@@ -30,50 +37,19 @@ This repository is versioned: [![DOI](https://zenodo.org/badge/957504815.svg)](h
 
 | **Topic** | **Time** | **Duration** |
 |-----------|----------|--------------|
-| Welcome + Introduction | 09:00 – 09:15 | 0:15 |
-| Git continued: cloning repositories, command line git <br> **Activity 1 (15 min)** | 09:15 – 09:45 | 0:30 |
-| **Break** | 09:45 – 10:00 | 0:15 |
-| Introduction to reproducible code, good coding practices and stabilizing your computing environment | 10:00 – 10:30 | 0:30 |
-| **Activity 2 (40 min)**: Reproducible code, good practices and stabilizing environment | 10:30 – 11:10 | 0:40 |
-| **Break** | 11:10 – 11:20 | 0:10 |
-| Thinking about the user: documentation, packaging, error messages, and more | 11:20 – 11:45 | 0:25 |
-| **Wrap-up** | 11:45 – 12:00 | 0:15 |
-
-</details>
-
-<details>
-<summary>Day 3</summary>
-
-## 🗓️ **Day 3**
-
-| **Topic** | **Time** | **Duration** |
-|-----------|----------|--------------|
-| Welcome + Introduction | 09:00 – 09:15 | 0:15 |
-| Introduction to testing | 09:15 – 09:45 | 0:30 |
-| **Break** | 09:45 – 10:00 | 0:15 |
-|Testing exercise <br> **Activity 1: Testing** (40min) | 10:00 – 10:45 | 0:45 |
-| **Break** | 10:45 – 11:00 | 0:15 |
-| A very quick introduction to Cx  <br> **Activity 2: CI/CD** (15min)| 11:00 – 11:35 | 0:35 |
-| **Wrap-up** | 11:35 – 12:00 | 0:25 |
-
-</details>
-
-<details>
-<summary>Day 4</summary>
-
-## 🗓️ **Day 4**
-
-| **Topic** | **Time** | **Duration** |
-|-----------|----------|--------------|
-| Introduction | 09:00 – 09:15 | 0:15 |
-| Software publication and licenses <br> **Activity 1: Create a license** | 09:15 – 09:45 | 0:30 |
-| **Activity 2: Zenodo** | 09:45 – 10:00 | 0:15 |
-| **Break** | 10:00 – 10:15 | 0:15 |
-| Brainstorming: *What makes a good code project?* | 10:15 – 10:30 | 0:15 |
-| Group work: pitch prep on “What makes a good code project” topics | 10:30 – 11:05 | 0:35 |
-| **Break** | 11:05 – 11:20 | 0:15 |
-| Pitches | 11:20 – 11:45 | 0:25 |
-| Feedback, Wrap-up, Farewell | 11:45 – 12:00 | 0:15 |
+| Welcome + Introduction | 09:30 – 09:45 | 0:15 |
+| Introduction to testing | 09:45 – 10:15 | 0:30 |
+| **Break** | 10:15 – 10:30 | 0:15 |
+| Testing exercise — **Activity 1 (40–45 min)** | 10:30 – 11:15 | 0:45 |
+| **Break** | 11:15 – 11:30 | 0:15 |
+| Quick introduction to CI/CD + **Activity 2** | 11:30 – 12:30 | 1:00 |
+| **Lunch** | 12:30 – 13:30 | 1:00 |
+| Software publication and licenses + **Activity: Create a license** | 13:30 – 14:00 | 0:30 |
+| Brainstorming: *What makes a good code project?* | 14:00 – 14:40 | 0:40 |
+| **Break** | 14:40 – 14:55 | 0:15 |
+| Group work: pitch prep on “What makes a good code project” topics | 14:55 – 15:40 | 0:45 |
+| **Break** | 15:40 – 15:55 | 0:15 |
+| Pitches, feedback, wrap-up and farewell | 15:55 – 16:30 | 0:35 |
 
 </details>
 
