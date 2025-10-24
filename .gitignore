@@ -1,8 +1,8 @@
 myproject/
 .vscode/
-day3/__pycache__/
+day2.1/__pycache__/
 .DS_Store
 add.py
 test_*.py
-day2/Day2.mlx
-day3/reproducible-research-project_solution_day_3/notebooks/Day3_old.ipynb
+day1.2/Day2.mlx
+day2.1/reproducible-research-project_solution_day_3/notebooks/Day3_old.ipynb
