@@ -14,7 +14,7 @@ You will complete two tasks.
 
 You will work inside the provided Jupyter notebook and complete a series of tasks
 
-<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day3/reproducible-research-project_day_3/notebooks/Day3.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fritjoflammers/RSE_Juelich/blob/main/day2.1/reproducible-research-project_day_3/notebooks/Day3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
