@@ -1,4 +1,4 @@
-# 💻 Practicing GitHub (Day 1)
+# 💻 Practicing GitHub (Day 1.1)
 
 Welcome to **Day 1** of our **Research Software Engineering course**!  
 Today, we’ll practice the **foundational skills for collaborating on GitHub**:  
@@ -32,11 +32,11 @@ Today, we’ll practice the **foundational skills for collaborating on GitHub**:
 
 ---
 
-### 3️⃣ Create a new file in the `day1/` folder
+### 3️⃣ Create a new file in the `day1.1/` folder
 
 > This simulates contributing a small piece of content to a shared project.
 
-- In your **forked repository**, navigate to the `day1/` folder.
+- In your **forked repository**, navigate to the `day1.1/` folder.
 - Click **"Add file" ➝ "Create new file"**.
 - Name the file: `YourName.md`  
   (replace `YourName` with your actual first name, e.g., `Sophie.md`).
@@ -74,7 +74,7 @@ Today, we’ll practice the **foundational skills for collaborating on GitHub**:
 - Go to the **original course repository** (not your fork).
 - Click the **"Issues"** tab ➝ **"New Issue"**.
 - Title the issue something like:  
-  `"My pull request for Day 1 contribution"`
+  `"My pull request to add my favourite animal"`
 - In the description, explain that you created a markdown file and submitted a pull request.
 - Paste the link to your Pull Request into the Issue description.
 
@@ -126,8 +126,8 @@ This is how developers work without stepping on each other’s toes!
 - Go to your **forked repository** on GitHub.
 - Click the **branch selector dropdown** near the top-left (it likely says `main`).
 - In the search bar, **type a name** for your new branch — for example:  
-  `dev` (short for `development`)
-- Press **Enter** or click **“Create branch: dev”**.
+  `my-new-feature` (or something like `dev`, short for `development`)
+- Press **Enter** or click **“Create branch”**.
 
 🎉 You’ve now created a new branch!
 
@@ -140,7 +140,7 @@ This is how developers work without stepping on each other’s toes!
 - Make a small change — for example, add your name or a project description.
 - Scroll down and write a **commit message** like:  
   `Updated README with my name`
-- Make sure **“Commit directly to the \`feature-readme-update\` branch”** is selected.
+- Make sure **“Commit directly to the \`my-new-feature\` branch”** is selected.
 - Click **Commit changes**.
 
 ✅ You’ve now made changes **safely in your branch**.
@@ -153,7 +153,7 @@ This is how developers work without stepping on each other’s toes!
 
 - Click the **"Pull requests"** tab at the top.
 - Click **“New pull request”**.
-- Select your branch (`feature-readme-update`) to merge **into `main`**.
+- Select your branch (``my-new-feature`) to merge **into `main`**.
 - GitHub will show a comparison — check that everything looks good.
 - Click **“Create pull request”**.
 - Give your pull request a title and description.
@@ -195,7 +195,8 @@ You will:
 ### 1️⃣ Work in Pairs
 
 - Choose a partner.
-- Make sure both of you have a **fork of the course repository** with a personal file (e.g. `YourName.md` in `day1/`).
+- Make sure both of you have a **fork of the course repository** with a personal file (e.g. `YourName.md` in `day1.1/`).
+- If you did not create this file in Activity 1, have a look there to proceed. 
 
 ---
 
@@ -203,7 +204,7 @@ You will:
 
 > This simulates contributing to someone else's project.
 
-- Go to your partner’s GitHub repository.
+- Navigate the browser to your partner’s GitHub repository.
 - Click **“Fork”**.
 - GitHub won’t allow you to fork a repo into the same name space if you already have a repo with the same name.
   - 🛠 If needed, **rename your fork** temporarily:
@@ -218,7 +219,7 @@ You will:
 > Add a friendly contribution to your partner’s repo.
 
 - In your fork of your partner’s repository:
-  - Navigate to the `day1/` folder.
+  - Navigate to the `day1.1/` folder.
   - Edit their `YourPartner.md` file.
   - Add a friendly sentence like:  
     `"Collaborated with Alex on Day 1 — we both like elephants!"`
