@@ -91,6 +91,9 @@ This option uses the terminal (MacOS, UNIX, Gitbash)
 
 > NOTE: if you use WINDOWS, install GitBash first. Execute all commands in GitBash.
 
+
+> NOTE: If you don't have access to a local terminal, you can also use GitHub Codespaces.
+
 Open a terminal (locally) and run:
 
 ```bash
@@ -302,7 +305,7 @@ You may use your favorite programming language, but it is recommended to use Pyt
 
 You can run the provided Jupyter notebook template here:
 
-<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day2/Day2.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fritjoflammers/RSE_Juelich/blob/main/day1.2/Day2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -509,6 +512,6 @@ Make sure your project:
 </details>
 
 <br>
-<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day2/Day2.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/fritjoflammers/RSE_Juelich/blob/main/day1.2/Day2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
