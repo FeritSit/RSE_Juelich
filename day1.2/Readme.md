@@ -1,4 +1,4 @@
-# Welcome to Day 2!
+# Welcome to Day 1.2
 
 Today, we’ll dive into two hands-on exercises to further sharpen your git skills:
 
@@ -303,14 +303,9 @@ Your task is to analyze the relationship between hours studied per day and exam 
 
 You may use your favorite programming language, but it is recommended to use Python.
 
-You can run the provided Jupyter notebook template here:
+Clone this repository to your ![JSC JupyterHub]([https://jupyter.jsc.fz-juelich.de]).
 
-<a target="_blank" href="https://colab.research.google.com/github/fritjoflammers/RSE_Juelich/blob/main/day1.2/Day2.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-> ⚠️ **Warning:** Jupyter notebooks opened directly in the browser **do not save your work!**
-To avoid losing progress, **save a copy to your Google Drive** (if logged into a Google account) or **download a local copy.**
+Go to https://jupyter.jsc.fz-juelich.de, and login with your FSJ credentials.
 
 ---
 
@@ -510,8 +505,3 @@ Make sure your project:
 - Documents the environment (e.g., requirements.txt)
 
 </details>
-
-<br>
-<a target="_blank" href="https://colab.research.google.com/github/fritjoflammers/RSE_Juelich/blob/main/day1.2/Day2.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
