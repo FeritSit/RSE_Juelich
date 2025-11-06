@@ -14,9 +14,13 @@ You will complete two tasks.
 
 You will work inside the provided Jupyter notebook and complete a series of tasks
 
-<a target="_blank" href="https://colab.research.google.com/github/fritjoflammers/RSE_Juelich/blob/main/day2.1/reproducible-research-project_day_3/notebooks/Day3.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+If not done yet, clone this repository to your ![JSC JupyterHub]([https://jupyter.jsc.fz-juelich.de]).
+
+Go to https://jupyter.jsc.fz-juelich.de, and login with your FSJ credentials.
+
+Then navigate to the `day2.1/reproducible-research-project_day_3` folder and open the `notebooks/Day3.ipynb` notebook.
+
+## Overview 
 
 Carefully read the instructions in the notebook. Here is an overview about what you will do:
 
